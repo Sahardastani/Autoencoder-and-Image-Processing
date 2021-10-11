@@ -1,4 +1,4 @@
-# Image-Processing
+# Autoencoder and Image processing
 Modify Image Reconstruction - Image Denoising - Seq to Seq Prediction - Autoencoder
 
 1) Image Reconstruction:
